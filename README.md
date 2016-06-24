@@ -3,6 +3,3 @@
 # Tutorielle
 ## Tutorielle
 ### Tutorielle
-'''ruby
-<br>hazh
-'''
